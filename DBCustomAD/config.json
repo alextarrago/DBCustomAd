@@ -1,0 +1,39 @@
+{
+    "banners":[
+               {
+               "title":"Banner 1",
+               "price":"1$",
+               "link":"http://www.dribba.com",
+               "image_large":"Test_1_large.png",
+               "image_small":"Test_1_small.png"
+               },
+               {
+               "title":"Banner 2",
+               "price":"1$",
+               "link":"http://www.dribba.com",
+               "image_large":"Test_2_large.png",
+               "image_small":"Test_2_small.png"
+               },
+               {
+               "title":"Banner 3",
+               "price":"1$",
+               "link":"http://www.dribba.com",
+               "image_large":"Test_3_large.png",
+               "image_small":"Test_3_small.png"
+               },
+               {
+               "title":"Banner 4",
+               "price":"1$",
+               "link":"http://www.dribba.com",
+               "image_large":"Test_4_large.png",
+               "image_small":"Test_4_small.png"
+               },
+               {
+               "title":"Banner 5",
+               "price":"1$",
+               "link":"http://www.dribba.com",
+               "image_large":"Test_5_large.png",
+               "image_small":"Test_5_small.png"
+               }
+               ]
+}
